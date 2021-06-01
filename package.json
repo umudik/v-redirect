@@ -1,0 +1,19 @@
+{
+  "name": "v-redirect",
+  "version": "1.0.0",
+  "description": "vue redirect component with :to",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umudikk/v-redirect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umudikk/v-redirect/issues"
+  },
+  "homepage": "https://github.com/umudikk/v-redirect#readme"
+}
