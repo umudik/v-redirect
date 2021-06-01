@@ -8,14 +8,10 @@ export default {
     props: ['to'],
     data() {
         return {
-            test: false,
         };
     },
     mounted() {
         this.$router.push(this.to);
-    },
-    updated() {
-
     },
 };
 </script>
