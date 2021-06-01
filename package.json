@@ -1,6 +1,6 @@
 {
   "name": "v-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue redirect component with :to",
   "main": "index.js",
   "scripts": {
