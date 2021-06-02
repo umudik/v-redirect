@@ -1,5 +1,12 @@
 # v-redirect
 
+```javascript
+
+import vredirect from 'v-redirect'
+Vue.use(vredirect);
+
+ ```
+
 ```vue 
   <div>
     <div v-if='true'>
